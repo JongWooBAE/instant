@@ -1,0 +1,12 @@
+<selector xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:state_pressed="true">
+        <shape android:shape="oval">
+            <solid android:color="#ddd"/> <!-- 눌렀을 때 색 -->
+        </shape>
+    </item>
+    <item>
+        <shape android:shape="oval">
+            <solid android:color="#fff"/> <!-- 기본 색 -->
+        </shape>
+    </item>
+</selector>

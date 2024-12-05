@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">cameraApp</string>
+    <string name="title_instant_feature">Instant Feature</string>
+    <string name="cancel">취소</string>
+</resources>
